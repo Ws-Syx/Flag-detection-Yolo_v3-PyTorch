@@ -40,7 +40,7 @@ The data set used in this project is in VOC format. The data set is divided into
 
 - Manually annotated photos from the Internet:
 
-There are about 2400 sheets in total. These photos cover 18 of the countries mentioned above ~~(it seems to be, not deep in memory)~~.
+There are about 2400 sheets in total. These photos cover 18 of the countries mentioned above ~~(it seems to be, but not deep in my memory)~~.
 It exists in the form of a file name of [XXX.jpg] in the data set.
 
 - Generated in batches based on national flag images and random base plates:
